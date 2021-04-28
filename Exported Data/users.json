@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6088d21c569f6d27603ab156"
+  },
+  "userType": "Trader",
+  "username": "Kihang",
+  "firstName": "Kim",
+  "lastName": "Kihang",
+  "password": "password",
+  "email": "email@gmail.com",
+  "dateOfBirth": {
+    "$date": "2021-04-28T03:09:27.440Z"
+  },
+  "proofOfWork": 0,
+  "asset": 9,
+  "createdAt": {
+    "$date": "2021-04-28T03:10:20.222Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T03:10:20.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6088d249569f6d27603ab157"
+  },
+  "userType": "Miner",
+  "username": "Person1",
+  "firstName": "Komal",
+  "lastName": "Gilani",
+  "password": "pass",
+  "email": "word@naver.com",
+  "dateOfBirth": {
+    "$date": "2021-04-28T03:10:20.216Z"
+  },
+  "proofOfWork": 200,
+  "asset": 0,
+  "createdAt": {
+    "$date": "2021-04-28T03:11:05.248Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T03:11:05.248Z"
+  },
+  "__v": 0
+}]

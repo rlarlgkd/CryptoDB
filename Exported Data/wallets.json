@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6088d264569f6d27603ab158"
+  },
+  "username": "Person1",
+  "address": "address1",
+  "created": {
+    "$date": "2021-04-13T03:11:20Z"
+  },
+  "createdAt": {
+    "$date": "2021-04-28T03:11:32.223Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T03:11:32.223Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6088d26c569f6d27603ab159"
+  },
+  "username": "Kihang",
+  "address": "address22",
+  "created": {
+    "$date": "2021-04-01T03:11:20Z"
+  },
+  "createdAt": {
+    "$date": "2021-04-28T03:11:40.605Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T03:11:40.605Z"
+  },
+  "__v": 0
+}]

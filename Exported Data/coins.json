@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6088d284569f6d27603ab15b"
+  },
+  "coinType": "Bitcoin",
+  "genreType": "N/A",
+  "address": "address1",
+  "amount": 200,
+  "price": 520,
+  "marketCap": 2000000,
+  "name": "",
+  "createdAt": {
+    "$date": "2021-04-28T03:12:04.797Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T03:12:04.797Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6088d2a5569f6d27603ab15c"
+  },
+  "coinType": "Altcoin",
+  "genreType": "Defi",
+  "address": "address22",
+  "amount": 14241,
+  "price": 9,
+  "marketCap": 0,
+  "name": "Uniswap",
+  "createdAt": {
+    "$date": "2021-04-28T03:12:37.878Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-28T03:12:37.878Z"
+  },
+  "__v": 0
+}]
