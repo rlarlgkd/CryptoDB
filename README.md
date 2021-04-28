@@ -1,4 +1,4 @@
-# CryptoDB
+# I wasn't able to add my main foldder 'mern' in main branch, so I added 'mern' in master branch
 
 Problem Statement: This project organize users' wallets and coins in data
 Solution Statement: I have sepereated user, wallet, coin data and made a list of each table so that people can see which user has what coin in which wallet
